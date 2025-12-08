@@ -1,0 +1,15 @@
+selenium==4.16.0
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
+schedule==1.2.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+chromedriver-autoinstaller==0.6.4
+twilio==8.11.0
+pyotp==2.9.0
+qrcode==7.4.2
+pillow==10.1.0
+colorama==0.4.6
+tabulate==0.9.0
+click==8.1.7
+pyyaml==6.0.1
