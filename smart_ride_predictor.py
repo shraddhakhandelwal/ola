@@ -11,6 +11,7 @@ import time
 from datetime import datetime, timedelta
 import logging
 import pytz
+from config_loader import get_telegram_config
 
 # Configure logging
 logging.basicConfig(
@@ -24,9 +25,10 @@ logging.basicConfig(
 
 class SmartRidePredictor:
     def __init__(self):
-        # Telegram configuration
-        self.bot_token = '8454418790:AAHy57BjdLadp1M_TUENDBJVtwWldtly-jc'
-        self.chat_id = '6411380646'
+        # Load Telegram configuration from .env file
+        telegram_config = get_telegram_config()
+        self.bot_token = telegram_config['bot_token']
+        self.chat_id = telegram_config['chat_id']
         
         # Timezone
         self.ist = pytz.timezone('Asia/Kolkata')

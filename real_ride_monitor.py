@@ -11,6 +11,7 @@ from datetime import datetime
 import logging
 import pytz
 import json
+from config_loader import get_telegram_config, get_ola_config
 
 # Configure logging
 logging.basicConfig(
@@ -24,16 +25,16 @@ logging.basicConfig(
 
 class RealRideMonitor:
     def __init__(self):
-        # Telegram configuration
-        self.bot_token = '8454418790:AAHy57BjdLadp1M_TUENDBJVtwWldtly-jc'
-        self.chat_id = '6411380646'
+        # Load configuration from .env file
+        telegram_config = get_telegram_config()
+        ola_config = get_ola_config()
         
-        # Timezone
-        self.ist = pytz.timezone('Asia/Kolkata')
+        self.bot_token = telegram_config['bot_token']
+        self.chat_id = telegram_config['chat_id']
         
         # Ola API Configuration
-        self.ola_client_id = '7387ed63-a1f3-4601-bba3-a659a56c912d'
-        self.ola_client_secret = 'd5e90dc30ed34261ba79bdcb83af705c'
+        self.ola_client_id = ola_config['client_id']
+        self.ola_client_secret = ola_config['client_secret']
         self.ola_access_token = None
         
         # Route configuration
