@@ -9,6 +9,7 @@ import schedule
 import time
 from datetime import datetime
 import logging
+import pytz
 
 # Configure logging
 logging.basicConfig(
@@ -26,8 +27,17 @@ class SimpleRideAlert:
         self.bot_token = '8454418790:AAHy57BjdLadp1M_TUENDBJVtwWldtly-jc'
         self.chat_id = '6411380646'
         
+        # Timezone configuration - India Standard Time
+        self.ist = pytz.timezone('Asia/Kolkata')
+        
         # Route configuration
         self.route = "Pune → Mumbai"
+        
+        # App links
+        self.ola_driver_link = "https://play.google.com/store/apps/details?id=com.olacabs.oladriver"
+        self.uber_driver_link = "https://play.google.com/store/apps/details?id=com.ubercab.driver"
+        self.ola_web = "https://www.olacabs.com/driver"
+        self.uber_web = "https://www.uber.com/in/en/drive/"
         
         # Timing configuration (peak hours for Pune-Mumbai rides)
         self.peak_hours = [
@@ -67,7 +77,7 @@ class SimpleRideAlert:
     
     def send_peak_hour_reminder(self):
         """Send reminder during peak hours"""
-        current_time = datetime.now()
+        current_time = datetime.now(self.ist)
         hour = current_time.hour
         minute = current_time.minute
         
@@ -77,12 +87,18 @@ class SimpleRideAlert:
             
             message = f"""🚗 PEAK HOUR ALERT! 
 
-⏰ {current_time.strftime('%I:%M %p')} - High demand time!
+⏰ {current_time.strftime('%I:%M %p')} IST - High demand time!
 📍 Route: {self.route}
 
-💡 CHECK YOUR DRIVER APP NOW!
-   • Ola Driver App
-   • Uber Driver App
+💡 OPEN YOUR DRIVER APPS NOW!
+
+📱 Quick Links:
+🟡 <a href="{self.ola_web}">Ola Driver Portal</a>
+⚫ <a href="{self.uber_web}">Uber Driver Portal</a>
+
+Or open apps on your phone:
+• Ola Driver App
+• Uber Driver App
 
 This is prime time for Pune→Mumbai rides.
 Riders are booking now! 🔥
@@ -96,8 +112,8 @@ Checked today: {self.checks_today} times"""
         """Send morning greeting"""
         message = f"""🌅 GOOD MORNING DRIVER!
 
-📅 {datetime.now().strftime('%A, %B %d, %Y')}
-⏰ {datetime.now().strftime('%I:%M %p')}
+📅 {datetime.now(self.ist).strftime('%A, %B %d, %Y')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 
 📍 Monitoring: {self.route}
 
@@ -106,7 +122,9 @@ Checked today: {self.checks_today} times"""
    • Afternoon peak: 2 PM - 4 PM  
    • Evening rush: 5 PM - 8 PM
 
-📱 Keep your driver apps ready!
+📱 Quick Access Links:
+🟡 <a href="{self.ola_web}">Ola Driver Portal</a>
+⚫ <a href="{self.uber_web}">Uber Driver Portal</a>
 
 You'll get alerts during peak hours.
 Good luck earning today! 💰"""
@@ -119,7 +137,7 @@ Good luck earning today! 💰"""
         """Send afternoon reminder"""
         message = f"""☀️ AFTERNOON CHECK-IN
 
-⏰ {datetime.now().strftime('%I:%M %p')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 📍 Route: {self.route}
 
 🔥 Afternoon rush starting soon!
@@ -130,6 +148,10 @@ Good luck earning today! 💰"""
    • Charge your phone
    • Stay hydrated
 
+📱 Quick Links:
+🟡 <a href="{self.ola_web}">Ola Driver Portal</a>
+⚫ <a href="{self.uber_web}">Uber Driver Portal</a>
+
 Next peak: 2 PM - 4 PM 📊"""
         
         self.send_telegram(message)
@@ -139,7 +161,7 @@ Next peak: 2 PM - 4 PM 📊"""
         """Send evening reminder"""
         message = f"""🌆 EVENING RUSH ALERT!
 
-⏰ {datetime.now().strftime('%I:%M %p')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 📍 Route: {self.route}
 
 🔥 PRIME TIME FOR RIDES!
@@ -148,7 +170,10 @@ Return trips Mumbai → Pune common now.
 Many riders going home from work.
 
 📱 OPEN YOUR APPS NOW!
-   High demand period ahead.
+🟡 <a href="{self.ola_web}">Ola Driver Portal</a>
+⚫ <a href="{self.uber_web}">Uber Driver Portal</a>
+
+High demand period ahead.
 
 Checks today: {self.checks_today} 🚗"""
         
@@ -159,8 +184,8 @@ Checks today: {self.checks_today} 🚗"""
         """Send night summary"""
         message = f"""🌙 END OF DAY SUMMARY
 
-📅 {datetime.now().strftime('%B %d, %Y')}
-⏰ {datetime.now().strftime('%I:%M %p')}
+📅 {datetime.now(self.ist).strftime('%B %d, %Y')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 
 📊 Today's Monitoring:
    • Peak hour alerts sent: {self.checks_today}
@@ -176,22 +201,26 @@ Sleep well, drive safe! 😴"""
     
     def check_rides_continuous(self):
         """Continuous ride checking - every 5 minutes during peak hours"""
-        current_hour = datetime.now().hour
+        current_hour = datetime.now(self.ist).hour
         
         # Only check frequently during likely ride hours (6 AM - 10 PM)
         if 6 <= current_hour <= 22:
             self.checks_today += 1
             
             # Send reminders every 2 hours during active time
-            if current_hour in [8, 10, 12, 14, 16, 18, 20] and datetime.now().minute < 5:
+            if current_hour in [8, 10, 12, 14, 16, 18, 20] and datetime.now(self.ist).minute < 5:
                 message = f"""🔔 RIDE CHECK REMINDER
 
-⏰ {datetime.now().strftime('%I:%M %p')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 📍 {self.route}
 
-💡 Quick Check:
-   ✓ Open Ola Driver App
-   ✓ Open Uber Driver App
+💡 Quick Check - Open Your Apps:
+🟡 <a href="{self.ola_web}">Ola Driver Portal</a>
+⚫ <a href="{self.uber_web}">Uber Driver Portal</a>
+
+Or on your phone:
+   ✓ Ola Driver App
+   ✓ Uber Driver App
    ✓ Check for ride requests
 
 Active monitoring in progress...
@@ -203,12 +232,13 @@ Total checks today: {self.checks_today}"""
     def run(self):
         """Main execution loop"""
         print("\n" + "="*70)
-        print("🚗 SIMPLE RIDE ALERTS - REAL-TIME NOTIFICATIONS")
+        print("🚗 SIMPLE RIDE ALERTS - REAL-TIME NOTIFICATIONS (IST)")
         print("="*70)
         print(f"\n📍 Route: {self.route}")
         print(f"📱 Telegram: CONFIGURED ✅")
+        print(f"🌏 Timezone: India Standard Time (IST)")
         print(f"\n⏰ Alert Schedule:")
-        print(f"   • 6:00 AM - Morning greeting")
+        print(f"   • 6:00 AM IST - Morning greeting")
         print(f"   • 7:00 AM - 9:00 AM - Peak hour alerts")
         print(f"   • 12:00 PM - Afternoon check-in")
         print(f"   • 2:00 PM - 4:00 PM - Afternoon rush")
@@ -221,7 +251,7 @@ Total checks today: {self.checks_today}"""
         # Send startup notification
         startup_msg = f"""🚀 RIDE ALERT SYSTEM STARTED!
 
-⏰ {datetime.now().strftime('%I:%M %p')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 📍 Route: {self.route}
 
 ✅ You'll receive:
@@ -268,7 +298,7 @@ No login automation - just helpful reminders! 🎯"""
             # Send shutdown notification
             shutdown_msg = f"""⏹️ ALERT SYSTEM STOPPED
 
-⏰ {datetime.now().strftime('%I:%M %p')}
+⏰ {datetime.now(self.ist).strftime('%I:%M %p')} IST
 
 Ride monitoring has been paused.
 Restart anytime with: python3 simple_ride_alerts.py
