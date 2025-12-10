@@ -533,3 +533,14 @@
 - **Fare**: ₹2079
 - **Time**: 2025-12-10T14:01:54.887155+05:30
 
+
+## Ride #50
+- **ID**: RIDE_1765355635_4206
+- **Type**: Ola Auto
+- **From**: Kalyani Nagar, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 83.3 km
+- **Duration**: 139 min
+- **Fare**: ₹1167
+- **Time**: 2025-12-10T14:03:55.688917+05:30
+
