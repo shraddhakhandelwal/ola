@@ -357,3 +357,14 @@
 - **Fare**: ₹1727
 - **Time**: 2025-12-10T11:00:07.307227+05:30
 
+
+## Ride #34
+- **ID**: RIDE_1765344788_1219
+- **Type**: Ola Bike
+- **From**: Hinjewadi, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 171.6 km
+- **Duration**: 178 min
+- **Fare**: ₹1383
+- **Time**: 2025-12-10T11:03:08.113733+05:30
+
