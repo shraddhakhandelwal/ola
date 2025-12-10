@@ -1,0 +1,13 @@
+{
+  "name": "Ola 24/7 Ride Notifier",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install -r requirements.txt",
+  "postStartCommand": "bash /workspaces/ola/auto_start_on_boot.sh",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      }
+    }
+  }
+}
