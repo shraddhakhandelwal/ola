@@ -7,6 +7,11 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+  
+  # Trigger on every push to main branch (starts automatically!)
+  push:
+    branches:
+      - main
 
 jobs:
   send-notification:
