@@ -126,3 +126,14 @@
 - **Fare**: ₹1276
 - **Time**: 2025-12-10T09:01:00.834122+05:30
 
+
+## Ride #13
+- **ID**: RIDE_1765337581_8936
+- **Type**: Ola Bike
+- **From**: Hinjewadi, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 103.6 km
+- **Duration**: 103 min
+- **Fare**: ₹1572
+- **Time**: 2025-12-10T09:03:01.612020+05:30
+
