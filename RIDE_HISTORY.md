@@ -192,3 +192,14 @@
 - **Fare**: ₹2011
 - **Time**: 2025-12-10T10:16:40.518124+05:30
 
+
+## Ride #19
+- **ID**: RIDE_1765342556_3422
+- **Type**: Ola Auto
+- **From**: Koregaon Park, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 136.2 km
+- **Duration**: 179 min
+- **Fare**: ₹2100
+- **Time**: 2025-12-10T10:25:56.088263+05:30
+
