@@ -555,3 +555,14 @@
 - **Fare**: ₹957
 - **Time**: 2025-12-10T14:05:56.470843+05:30
 
+
+## Ride #52
+- **ID**: RIDE_1765355877_1085
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 169.1 km
+- **Duration**: 112 min
+- **Fare**: ₹1774
+- **Time**: 2025-12-10T14:07:57.261880+05:30
+
