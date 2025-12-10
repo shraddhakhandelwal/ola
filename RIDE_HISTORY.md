@@ -302,3 +302,14 @@
 - **Fare**: ₹1636
 - **Time**: 2025-12-10T10:49:03.396415+05:30
 
+
+## Ride #29
+- **ID**: RIDE_1765344064_4373
+- **Type**: Ola Auto
+- **From**: Viman Nagar, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 121.6 km
+- **Duration**: 120 min
+- **Fare**: ₹1150
+- **Time**: 2025-12-10T10:51:04.184139+05:30
+
