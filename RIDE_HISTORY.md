@@ -93,3 +93,14 @@
 - **Fare**: ₹1567
 - **Time**: 2025-12-10T08:53:58.537855+05:30
 
+
+## Ride #10
+- **ID**: RIDE_1765337219_9247
+- **Type**: Ola Bike
+- **From**: Pimpri, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 155.9 km
+- **Duration**: 135 min
+- **Fare**: ₹1005
+- **Time**: 2025-12-10T08:56:59.293791+05:30
+
