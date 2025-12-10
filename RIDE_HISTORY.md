@@ -500,3 +500,14 @@
 - **Fare**: ₹922
 - **Time**: 2025-12-10T13:54:52.403143+05:30
 
+
+## Ride #47
+- **ID**: RIDE_1765355213_3249
+- **Type**: Ola Bike
+- **From**: Koregaon Park, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 168.2 km
+- **Duration**: 118 min
+- **Fare**: ₹1346
+- **Time**: 2025-12-10T13:56:53.186147+05:30
+
