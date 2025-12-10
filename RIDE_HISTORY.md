@@ -577,3 +577,14 @@
 - **Fare**: ₹1482
 - **Time**: 2025-12-10T14:09:58.128530+05:30
 
+
+## Ride #54
+- **ID**: RIDE_1765356118_8017
+- **Type**: Ola Cab
+- **From**: Hinjewadi, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 118.3 km
+- **Duration**: 117 min
+- **Fare**: ₹2299
+- **Time**: 2025-12-10T14:11:58.920029+05:30
+
