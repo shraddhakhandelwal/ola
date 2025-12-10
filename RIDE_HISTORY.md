@@ -181,3 +181,14 @@
 - **Fare**: ₹1937
 - **Time**: 2025-12-10T10:13:37.388603+05:30
 
+
+## Ride #18
+- **ID**: RIDE_1765342000_3586
+- **Type**: Ola Cab
+- **From**: Kalyani Nagar, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 165.1 km
+- **Duration**: 140 min
+- **Fare**: ₹2011
+- **Time**: 2025-12-10T10:16:40.518124+05:30
+
