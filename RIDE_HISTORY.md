@@ -324,3 +324,14 @@
 - **Fare**: ₹1077
 - **Time**: 2025-12-10T10:53:04.967980+05:30
 
+
+## Ride #31
+- **ID**: RIDE_1765344305_8468
+- **Type**: Ola Auto
+- **From**: Pimpri, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 97.5 km
+- **Duration**: 112 min
+- **Fare**: ₹1084
+- **Time**: 2025-12-10T10:55:05.744868+05:30
+
