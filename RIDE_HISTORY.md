@@ -335,3 +335,14 @@
 - **Fare**: ₹1084
 - **Time**: 2025-12-10T10:55:05.744868+05:30
 
+
+## Ride #32
+- **ID**: RIDE_1765344486_2368
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 83.3 km
+- **Duration**: 121 min
+- **Fare**: ₹1362
+- **Time**: 2025-12-10T10:58:06.547427+05:30
+
