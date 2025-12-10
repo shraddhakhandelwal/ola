@@ -159,3 +159,14 @@
 - **Fare**: ₹1902
 - **Time**: 2025-12-10T09:08:03.207328+05:30
 
+
+## Ride #16
+- **ID**: RIDE_1765338063_2376
+- **Type**: Ola Bike
+- **From**: Yerawada, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 83.9 km
+- **Duration**: 172 min
+- **Fare**: ₹2307
+- **Time**: 2025-12-10T09:11:03.978436+05:30
+
