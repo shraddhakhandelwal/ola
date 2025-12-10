@@ -1,0 +1,17 @@
+[Unit]
+Description=Ola/Uber Ride Automation Scheduler
+After=network.target
+
+[Service]
+Type=simple
+User=%USER%
+WorkingDirectory=/workspaces/ola
+Environment="PATH=/workspaces/ola/venv/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/workspaces/ola/venv/bin/python /workspaces/ola/enhanced_scheduler.py
+Restart=always
+RestartSec=10
+StandardOutput=append:/workspaces/ola/logs/scheduler.log
+StandardError=append:/workspaces/ola/logs/scheduler_error.log
+
+[Install]
+WantedBy=multi-user.target
