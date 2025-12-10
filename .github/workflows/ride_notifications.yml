@@ -1,0 +1,46 @@
+name: 24/7 Ride Notifications
+
+on:
+  schedule:
+    # Runs every 5 minutes (minimum allowed by GitHub Actions)
+    - cron: '*/5 * * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  send-notification:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests python-dotenv pytz
+    
+    - name: Send ride notification
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        python3 github_actions_notifier.py
+    
+    - name: Commit ride history
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add RIDE_HISTORY.md sent_rides.json 2>/dev/null || true
+        git diff --quiet && git diff --staged --quiet || git commit -m "🚗 Auto: New ride notification at $(TZ='Asia/Kolkata' date '+%H:%M IST')"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
