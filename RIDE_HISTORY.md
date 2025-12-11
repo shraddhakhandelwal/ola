@@ -753,3 +753,14 @@
 - **Fare**: ₹1590
 - **Time**: 2025-12-11T17:19:12.232733+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765455803_4160
+- **Type**: Ola Bike
+- **From**: Koregaon Park, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 127.6 km
+- **Duration**: 145 min
+- **Fare**: ₹966
+- **Time**: 2025-12-11T17:53:23.806202+05:30
+
