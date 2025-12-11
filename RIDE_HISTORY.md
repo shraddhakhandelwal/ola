@@ -709,3 +709,14 @@
 - **Fare**: ₹1584
 - **Time**: 2025-12-11T15:56:15.691826+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765450275_6216
+- **Type**: Ola Bike
+- **From**: Kalyani Nagar, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 164.8 km
+- **Duration**: 150 min
+- **Fare**: ₹1336
+- **Time**: 2025-12-11T16:21:15.948739+05:30
+
