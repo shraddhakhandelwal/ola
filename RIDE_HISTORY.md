@@ -929,3 +929,14 @@
 - **Fare**: ₹1125
 - **Time**: 2025-12-12T01:17:01.138515+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765483202_5395
+- **Type**: Ola Bike
+- **From**: Kalyani Nagar, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 159.1 km
+- **Duration**: 107 min
+- **Fare**: ₹1422
+- **Time**: 2025-12-12T01:30:02.694205+05:30
+
