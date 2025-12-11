@@ -1050,3 +1050,14 @@
 - **Fare**: ₹2385
 - **Time**: 2025-12-12T05:02:50.360026+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765496842_9896
+- **Type**: Ola Bike
+- **From**: Yerawada, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 139.8 km
+- **Duration**: 143 min
+- **Fare**: ₹1896
+- **Time**: 2025-12-12T05:17:22.399276+05:30
+
