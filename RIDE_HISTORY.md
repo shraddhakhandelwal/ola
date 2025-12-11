@@ -830,3 +830,14 @@
 - **Fare**: ₹1036
 - **Time**: 2025-12-11T21:05:44.003523+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765468538_3576
+- **Type**: Ola Bike
+- **From**: Koregaon Park, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 96.7 km
+- **Duration**: 178 min
+- **Fare**: ₹1332
+- **Time**: 2025-12-11T21:25:38.530764+05:30
+
