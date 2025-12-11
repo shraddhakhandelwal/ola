@@ -995,3 +995,14 @@
 - **Fare**: ₹1661
 - **Time**: 2025-12-12T03:18:21.122648+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765490492_5872
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 98.8 km
+- **Duration**: 163 min
+- **Fare**: ₹1148
+- **Time**: 2025-12-12T03:31:32.778490+05:30
+
