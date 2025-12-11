@@ -588,3 +588,14 @@
 - **Fare**: ₹2299
 - **Time**: 2025-12-10T14:11:58.920029+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765432488_2716
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 153.4 km
+- **Duration**: 147 min
+- **Fare**: ₹1853
+- **Time**: 2025-12-11T11:24:48.818745+05:30
+
