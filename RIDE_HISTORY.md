@@ -940,3 +940,14 @@
 - **Fare**: ₹1422
 - **Time**: 2025-12-12T01:30:02.694205+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765485188_1280
+- **Type**: Ola Auto
+- **From**: Hinjewadi, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 82.3 km
+- **Duration**: 167 min
+- **Fare**: ₹1549
+- **Time**: 2025-12-12T02:03:08.914626+05:30
+
