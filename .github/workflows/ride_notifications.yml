@@ -13,6 +13,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # Allow GitHub Actions to push changes
+
 jobs:
   send-notification:
     runs-on: ubuntu-latest
