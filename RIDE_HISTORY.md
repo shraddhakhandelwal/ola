@@ -863,3 +863,14 @@
 - **Fare**: ₹1387
 - **Time**: 2025-12-11T22:33:54.803510+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765475063_9371
+- **Type**: Ola Auto
+- **From**: Kalyani Nagar, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 128.1 km
+- **Duration**: 117 min
+- **Fare**: ₹2002
+- **Time**: 2025-12-11T23:14:23.205041+05:30
+
