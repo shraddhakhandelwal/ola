@@ -1314,3 +1314,14 @@
 - **Fare**: ₹1431
 - **Time**: 2025-12-12T17:28:00.370984+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765544442_7770
+- **Type**: Ola Bike
+- **From**: Hinjewadi, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 129.8 km
+- **Duration**: 128 min
+- **Fare**: ₹1082
+- **Time**: 2025-12-12T18:30:42.034900+05:30
+
