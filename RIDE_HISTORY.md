@@ -1589,3 +1589,14 @@
 - **Fare**: ₹1653
 - **Time**: 2025-12-13T03:24:18.635785+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765578170_6980
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 112.6 km
+- **Duration**: 104 min
+- **Fare**: ₹2205
+- **Time**: 2025-12-13T03:52:50.660014+05:30
+
