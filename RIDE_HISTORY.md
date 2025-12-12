@@ -1303,3 +1303,14 @@
 - **Fare**: ₹827
 - **Time**: 2025-12-12T17:15:49.822699+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765540680_6137
+- **Type**: Ola Auto
+- **From**: Pimpri, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 172.4 km
+- **Duration**: 112 min
+- **Fare**: ₹1431
+- **Time**: 2025-12-12T17:28:00.370984+05:30
+
