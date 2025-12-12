@@ -1545,3 +1545,14 @@
 - **Fare**: ₹1389
 - **Time**: 2025-12-13T02:16:19.090576+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765573141_2343
+- **Type**: Ola Auto
+- **From**: Hinjewadi, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 154.8 km
+- **Duration**: 178 min
+- **Fare**: ₹1591
+- **Time**: 2025-12-13T02:29:01.332335+05:30
+
