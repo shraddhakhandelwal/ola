@@ -1094,3 +1094,14 @@
 - **Fare**: ₹2229
 - **Time**: 2025-12-12T09:14:02.599218+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765513341_8973
+- **Type**: Ola Cab
+- **From**: Pimpri, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 94.7 km
+- **Duration**: 149 min
+- **Fare**: ₹1365
+- **Time**: 2025-12-12T09:52:21.822396+05:30
+
