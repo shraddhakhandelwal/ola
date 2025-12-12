@@ -1072,3 +1072,14 @@
 - **Fare**: ₹1249
 - **Time**: 2025-12-12T05:30:14.843552+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765506065_1545
+- **Type**: Ola Auto
+- **From**: Hinjewadi, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 128.3 km
+- **Duration**: 101 min
+- **Fare**: ₹1443
+- **Time**: 2025-12-12T07:51:05.826108+05:30
+
