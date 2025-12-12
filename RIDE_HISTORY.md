@@ -1193,3 +1193,14 @@
 - **Fare**: ₹2171
 - **Time**: 2025-12-12T13:17:53.226366+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765526426_8648
+- **Type**: Ola Auto
+- **From**: Deccan Gymkhana, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 84.7 km
+- **Duration**: 169 min
+- **Fare**: ₹2445
+- **Time**: 2025-12-12T13:30:26.816387+05:30
+
