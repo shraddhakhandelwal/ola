@@ -1875,3 +1875,14 @@
 - **Fare**: ₹1558
 - **Time**: 2025-12-13T15:56:48.173495+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765622691_8113
+- **Type**: Ola Cab
+- **From**: Hinjewadi, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 149.4 km
+- **Duration**: 103 min
+- **Fare**: ₹1689
+- **Time**: 2025-12-13T16:14:51.696461+05:30
+
