@@ -2216,3 +2216,14 @@
 - **Fare**: ₹2194
 - **Time**: 2025-12-14T02:23:47.436631+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765660733_1822
+- **Type**: Ola Auto
+- **From**: Yerawada, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 157.2 km
+- **Duration**: 149 min
+- **Fare**: ₹2492
+- **Time**: 2025-12-14T02:48:53.960772+05:30
+
