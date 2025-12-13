@@ -2172,3 +2172,14 @@
 - **Fare**: ₹1716
 - **Time**: 2025-12-14T01:11:09.415456+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765655628_9304
+- **Type**: Ola Bike
+- **From**: Viman Nagar, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 80.6 km
+- **Duration**: 137 min
+- **Fare**: ₹2105
+- **Time**: 2025-12-14T01:23:48.163558+05:30
+
