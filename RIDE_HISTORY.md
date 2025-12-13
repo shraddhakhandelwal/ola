@@ -2128,3 +2128,14 @@
 - **Fare**: ₹1892
 - **Time**: 2025-12-14T00:06:39.442815+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765651964_1763
+- **Type**: Ola Auto
+- **From**: Deccan Gymkhana, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 120.9 km
+- **Duration**: 167 min
+- **Fare**: ₹1720
+- **Time**: 2025-12-14T00:22:44.370844+05:30
+
