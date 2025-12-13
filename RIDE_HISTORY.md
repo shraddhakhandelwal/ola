@@ -1710,3 +1710,14 @@
 - **Fare**: ₹1682
 - **Time**: 2025-12-13T10:21:16.423677+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765602953_2794
+- **Type**: Ola Bike
+- **From**: Koregaon Park, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 89.3 km
+- **Duration**: 159 min
+- **Fare**: ₹858
+- **Time**: 2025-12-13T10:45:53.021318+05:30
+
