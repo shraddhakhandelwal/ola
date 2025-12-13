@@ -1787,3 +1787,14 @@
 - **Fare**: ₹1202
 - **Time**: 2025-12-13T13:08:44.565689+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765612286_6209
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 95.5 km
+- **Duration**: 145 min
+- **Fare**: ₹2403
+- **Time**: 2025-12-13T13:21:26.872894+05:30
+
