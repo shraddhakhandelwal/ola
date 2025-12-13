@@ -1996,3 +1996,14 @@
 - **Fare**: ₹1209
 - **Time**: 2025-12-13T20:02:23.585946+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765637176_8362
+- **Type**: Ola Cab
+- **From**: Deccan Gymkhana, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 86.8 km
+- **Duration**: 154 min
+- **Fare**: ₹1864
+- **Time**: 2025-12-13T20:16:16.223602+05:30
+
