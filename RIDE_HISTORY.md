@@ -2249,3 +2249,14 @@
 - **Fare**: ₹2300
 - **Time**: 2025-12-14T03:16:04.196535+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765663083_6018
+- **Type**: Ola Bike
+- **From**: Viman Nagar, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 161.2 km
+- **Duration**: 158 min
+- **Fare**: ₹1786
+- **Time**: 2025-12-14T03:28:03.936854+05:30
+
