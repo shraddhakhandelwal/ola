@@ -2117,3 +2117,14 @@
 - **Fare**: ₹2227
 - **Time**: 2025-12-13T23:27:17.120364+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765650999_7779
+- **Type**: Ola Cab
+- **From**: Kalyani Nagar, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 178.9 km
+- **Duration**: 116 min
+- **Fare**: ₹1892
+- **Time**: 2025-12-14T00:06:39.442815+05:30
+
