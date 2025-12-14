@@ -2909,3 +2909,14 @@
 - **Fare**: ₹962
 - **Time**: 2025-12-15T03:24:12.520599+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765750851_4990
+- **Type**: Ola Cab
+- **From**: Kalyani Nagar, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 137.5 km
+- **Duration**: 126 min
+- **Fare**: ₹1770
+- **Time**: 2025-12-15T03:50:51.481974+05:30
+
