@@ -2535,3 +2535,14 @@
 - **Fare**: ₹2434
 - **Time**: 2025-12-14T15:59:12.355106+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765709187_6578
+- **Type**: Ola Auto
+- **From**: Yerawada, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 82.3 km
+- **Duration**: 129 min
+- **Fare**: ₹2311
+- **Time**: 2025-12-14T16:16:27.513237+05:30
+
