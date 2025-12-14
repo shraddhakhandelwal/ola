@@ -2568,3 +2568,14 @@
 - **Fare**: ₹2329
 - **Time**: 2025-12-14T16:54:19.244805+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765712333_5981
+- **Type**: Ola Auto
+- **From**: Yerawada, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 137.9 km
+- **Duration**: 107 min
+- **Fare**: ₹1313
+- **Time**: 2025-12-14T17:08:53.814978+05:30
+
