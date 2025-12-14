@@ -2557,3 +2557,14 @@
 - **Fare**: ₹1740
 - **Time**: 2025-12-14T16:28:49.931400+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765711459_5513
+- **Type**: Ola Auto
+- **From**: Kalyani Nagar, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 136.4 km
+- **Duration**: 149 min
+- **Fare**: ₹2329
+- **Time**: 2025-12-14T16:54:19.244805+05:30
+
