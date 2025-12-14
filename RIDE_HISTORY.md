@@ -2447,3 +2447,14 @@
 - **Fare**: ₹1878
 - **Time**: 2025-12-14T13:10:09.998743+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765698761_8219
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 162.0 km
+- **Duration**: 144 min
+- **Fare**: ₹1364
+- **Time**: 2025-12-14T13:22:41.103226+05:30
+
