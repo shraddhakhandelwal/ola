@@ -2425,3 +2425,14 @@
 - **Fare**: ₹2186
 - **Time**: 2025-12-14T12:25:31.666458+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765697090_7533
+- **Type**: Ola Cab
+- **From**: Kalyani Nagar, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 178.6 km
+- **Duration**: 114 min
+- **Fare**: ₹2064
+- **Time**: 2025-12-14T12:54:50.781523+05:30
+
