@@ -2645,3 +2645,14 @@
 - **Fare**: ₹1624
 - **Time**: 2025-12-14T19:43:06.518598+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765722924_6911
+- **Type**: Ola Bike
+- **From**: Kalyani Nagar, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 96.4 km
+- **Duration**: 131 min
+- **Fare**: ₹1598
+- **Time**: 2025-12-14T20:05:24.139907+05:30
+
