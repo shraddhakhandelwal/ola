@@ -2931,3 +2931,14 @@
 - **Fare**: ₹2337
 - **Time**: 2025-12-15T04:09:28.400257+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765752731_2318
+- **Type**: Ola Auto
+- **From**: Pimpri, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 178.1 km
+- **Duration**: 157 min
+- **Fare**: ₹1888
+- **Time**: 2025-12-15T04:22:11.804652+05:30
+
