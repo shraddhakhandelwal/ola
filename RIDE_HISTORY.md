@@ -2414,3 +2414,14 @@
 - **Fare**: ₹1472
 - **Time**: 2025-12-14T12:05:46.846450+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765695331_3081
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 82.7 km
+- **Duration**: 113 min
+- **Fare**: ₹2186
+- **Time**: 2025-12-14T12:25:31.666458+05:30
+
