@@ -2612,3 +2612,14 @@
 - **Fare**: ₹1971
 - **Time**: 2025-12-14T18:37:32.367564+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765719452_3377
+- **Type**: Ola Cab
+- **From**: Viman Nagar, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 170.4 km
+- **Duration**: 166 min
+- **Fare**: ₹1446
+- **Time**: 2025-12-14T19:07:32.225987+05:30
+
