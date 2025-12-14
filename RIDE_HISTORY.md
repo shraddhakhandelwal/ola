@@ -2634,3 +2634,14 @@
 - **Fare**: ₹1260
 - **Time**: 2025-12-14T19:20:40.608638+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765721586_8703
+- **Type**: Ola Cab
+- **From**: Hinjewadi, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 81.0 km
+- **Duration**: 179 min
+- **Fare**: ₹1624
+- **Time**: 2025-12-14T19:43:06.518598+05:30
+
