@@ -2524,3 +2524,14 @@
 - **Fare**: ₹979
 - **Time**: 2025-12-14T15:27:04.159527+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765708152_2243
+- **Type**: Ola Cab
+- **From**: Viman Nagar, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 137.7 km
+- **Duration**: 101 min
+- **Fare**: ₹2434
+- **Time**: 2025-12-14T15:59:12.355106+05:30
+
