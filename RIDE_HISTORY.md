@@ -3041,3 +3041,14 @@
 - **Fare**: ₹2091
 - **Time**: 2025-12-15T11:08:04.885136+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765778097_7979
+- **Type**: Ola Cab
+- **From**: Pimpri, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 93.8 km
+- **Duration**: 121 min
+- **Fare**: ₹1382
+- **Time**: 2025-12-15T11:24:57.207511+05:30
+
