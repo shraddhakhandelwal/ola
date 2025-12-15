@@ -3316,3 +3316,14 @@
 - **Fare**: ₹1407
 - **Time**: 2025-12-15T23:27:59.591112+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765824332_4700
+- **Type**: Ola Auto
+- **From**: Deccan Gymkhana, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 157.3 km
+- **Duration**: 126 min
+- **Fare**: ₹2422
+- **Time**: 2025-12-16T00:15:32.374136+05:30
+
