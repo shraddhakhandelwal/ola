@@ -3404,3 +3404,14 @@
 - **Fare**: ₹1345
 - **Time**: 2025-12-16T02:49:25.105817+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765834753_4174
+- **Type**: Ola Cab
+- **From**: Hinjewadi, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 103.8 km
+- **Duration**: 161 min
+- **Fare**: ₹1191
+- **Time**: 2025-12-16T03:09:13.948713+05:30
+
