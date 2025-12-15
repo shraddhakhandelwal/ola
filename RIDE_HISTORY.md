@@ -3360,3 +3360,14 @@
 - **Fare**: ₹1798
 - **Time**: 2025-12-16T01:16:01.318288+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765828690_5471
+- **Type**: Ola Auto
+- **From**: Hinjewadi, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 157.6 km
+- **Duration**: 161 min
+- **Fare**: ₹2308
+- **Time**: 2025-12-16T01:28:10.688990+05:30
+
