@@ -3239,3 +3239,14 @@
 - **Fare**: ₹2200
 - **Time**: 2025-12-15T20:19:28.495002+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765811792_9962
+- **Type**: Ola Bike
+- **From**: Koregaon Park, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 101.5 km
+- **Duration**: 128 min
+- **Fare**: ₹2463
+- **Time**: 2025-12-15T20:46:32.648455+05:30
+
