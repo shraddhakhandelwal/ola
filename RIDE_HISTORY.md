@@ -3074,3 +3074,14 @@
 - **Fare**: ₹1212
 - **Time**: 2025-12-15T12:33:06.348139+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765784070_2637
+- **Type**: Ola Auto
+- **From**: Pimpri, Pune
+- **To**: Andheri West, Mumbai
+- **Distance**: 177.2 km
+- **Duration**: 114 min
+- **Fare**: ₹2224
+- **Time**: 2025-12-15T13:04:30.583646+05:30
+
