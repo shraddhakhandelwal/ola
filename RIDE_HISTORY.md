@@ -3580,3 +3580,14 @@
 - **Fare**: ₹1849
 - **Time**: 2025-12-16T12:18:46.437803+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765869280_1647
+- **Type**: Ola Auto
+- **From**: Pimpri, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 97.0 km
+- **Duration**: 172 min
+- **Fare**: ₹1321
+- **Time**: 2025-12-16T12:44:40.996914+05:30
+
