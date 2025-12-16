@@ -3976,3 +3976,14 @@
 - **Fare**: ₹1295
 - **Time**: 2025-12-17T04:08:20.944805+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765925490_3212
+- **Type**: Ola Cab
+- **From**: Viman Nagar, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 141.7 km
+- **Duration**: 159 min
+- **Fare**: ₹1019
+- **Time**: 2025-12-17T04:21:30.953499+05:30
+
