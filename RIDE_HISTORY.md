@@ -3866,3 +3866,14 @@
 - **Fare**: ₹2404
 - **Time**: 2025-12-17T00:32:04.611301+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765913303_5522
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 119.1 km
+- **Duration**: 108 min
+- **Fare**: ₹1732
+- **Time**: 2025-12-17T00:58:23.896124+05:30
+
