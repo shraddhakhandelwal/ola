@@ -3756,3 +3756,14 @@
 - **Fare**: ₹1067
 - **Time**: 2025-12-16T20:00:22.553456+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765896898_1139
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 118.3 km
+- **Duration**: 158 min
+- **Fare**: ₹2186
+- **Time**: 2025-12-16T20:24:58.595515+05:30
+
