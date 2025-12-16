@@ -3624,3 +3624,14 @@
 - **Fare**: ₹1723
 - **Time**: 2025-12-16T14:00:11.471596+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765875470_8950
+- **Type**: Ola Auto
+- **From**: Deccan Gymkhana, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 94.0 km
+- **Duration**: 130 min
+- **Fare**: ₹2265
+- **Time**: 2025-12-16T14:27:50.570949+05:30
+
