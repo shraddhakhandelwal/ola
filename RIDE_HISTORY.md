@@ -3888,3 +3888,14 @@
 - **Fare**: ₹1378
 - **Time**: 2025-12-17T01:14:00.642458+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765914989_7546
+- **Type**: Ola Cab
+- **From**: Hinjewadi, Pune
+- **To**: Fort, Mumbai
+- **Distance**: 156.5 km
+- **Duration**: 107 min
+- **Fare**: ₹2358
+- **Time**: 2025-12-17T01:26:29.241806+05:30
+
