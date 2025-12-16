@@ -3602,3 +3602,14 @@
 - **Fare**: ₹2418
 - **Time**: 2025-12-16T13:09:41.180805+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765871581_5837
+- **Type**: Ola Auto
+- **From**: Deccan Gymkhana, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 145.8 km
+- **Duration**: 146 min
+- **Fare**: ₹1952
+- **Time**: 2025-12-16T13:23:01.407684+05:30
+
