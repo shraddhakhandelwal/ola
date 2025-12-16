@@ -3932,3 +3932,14 @@
 - **Fare**: ₹1678
 - **Time**: 2025-12-17T02:47:19.789785+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765921075_4598
+- **Type**: Ola Bike
+- **From**: Viman Nagar, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 168.3 km
+- **Duration**: 147 min
+- **Fare**: ₹881
+- **Time**: 2025-12-17T03:07:55.272103+05:30
+
