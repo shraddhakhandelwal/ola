@@ -3954,3 +3954,14 @@
 - **Fare**: ₹1459
 - **Time**: 2025-12-17T03:21:09.211799+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765923314_3278
+- **Type**: Ola Cab
+- **From**: Yerawada, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 148.7 km
+- **Duration**: 139 min
+- **Fare**: ₹1585
+- **Time**: 2025-12-17T03:45:14.459931+05:30
+
