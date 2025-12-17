@@ -4020,3 +4020,14 @@
 - **Fare**: ₹1095
 - **Time**: 2025-12-17T05:18:43.186995+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765932261_9351
+- **Type**: Ola Bike
+- **From**: Kalyani Nagar, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 122.9 km
+- **Duration**: 150 min
+- **Fare**: ₹2305
+- **Time**: 2025-12-17T06:14:21.196050+05:30
+
