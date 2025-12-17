@@ -4295,3 +4295,14 @@
 - **Fare**: ₹2041
 - **Time**: 2025-12-17T19:26:02.414260+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765981872_1933
+- **Type**: Ola Auto
+- **From**: Koregaon Park, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 151.8 km
+- **Duration**: 107 min
+- **Fare**: ₹2161
+- **Time**: 2025-12-17T20:01:12.453530+05:30
+
