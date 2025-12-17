@@ -4427,3 +4427,14 @@
 - **Fare**: ₹1826
 - **Time**: 2025-12-18T01:01:52.488776+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766000728_8816
+- **Type**: Ola Cab
+- **From**: Koregaon Park, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 90.3 km
+- **Duration**: 178 min
+- **Fare**: ₹1087
+- **Time**: 2025-12-18T01:15:28.887919+05:30
+
