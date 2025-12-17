@@ -4482,3 +4482,14 @@
 - **Fare**: ₹1418
 - **Time**: 2025-12-18T02:48:53.336785+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766007552_4226
+- **Type**: Ola Bike
+- **From**: Pimpri, Pune
+- **To**: Santacruz East, Mumbai
+- **Distance**: 111.4 km
+- **Duration**: 155 min
+- **Fare**: ₹2034
+- **Time**: 2025-12-18T03:09:12.094858+05:30
+
