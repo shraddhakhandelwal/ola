@@ -4152,3 +4152,14 @@
 - **Fare**: ₹2019
 - **Time**: 2025-12-17T13:19:02.966989+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1765959359_7765
+- **Type**: Ola Bike
+- **From**: Pimpri, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 138.0 km
+- **Duration**: 131 min
+- **Fare**: ₹845
+- **Time**: 2025-12-17T13:45:59.915123+05:30
+
