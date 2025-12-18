@@ -4878,3 +4878,14 @@
 - **Fare**: ₹1468
 - **Time**: 2025-12-18T21:04:33.371083+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766073179_6002
+- **Type**: Ola Cab
+- **From**: Kalyani Nagar, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 102.2 km
+- **Duration**: 131 min
+- **Fare**: ₹1002
+- **Time**: 2025-12-18T21:22:59.441710+05:30
+
