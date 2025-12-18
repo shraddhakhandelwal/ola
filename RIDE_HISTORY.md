@@ -4988,3 +4988,14 @@
 - **Fare**: ₹1443
 - **Time**: 2025-12-19T01:15:51.229926+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766087872_6352
+- **Type**: Ola Bike
+- **From**: Viman Nagar, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 176.9 km
+- **Duration**: 128 min
+- **Fare**: ₹1608
+- **Time**: 2025-12-19T01:27:52.405695+05:30
+
