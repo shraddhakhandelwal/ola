@@ -4658,3 +4658,14 @@
 - **Fare**: ₹1158
 - **Time**: 2025-12-18T12:04:47.681719+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766041155_1579
+- **Type**: Ola Auto
+- **From**: Hinjewadi, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 117.9 km
+- **Duration**: 133 min
+- **Fare**: ₹2167
+- **Time**: 2025-12-18T12:29:15.011414+05:30
+
