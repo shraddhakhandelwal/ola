@@ -4911,3 +4911,14 @@
 - **Fare**: ₹858
 - **Time**: 2025-12-18T22:27:07.625909+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766079074_2059
+- **Type**: Ola Bike
+- **From**: Pimpri, Pune
+- **To**: Marine Lines, Mumbai
+- **Distance**: 163.2 km
+- **Duration**: 159 min
+- **Fare**: ₹2303
+- **Time**: 2025-12-18T23:01:14.753606+05:30
+
