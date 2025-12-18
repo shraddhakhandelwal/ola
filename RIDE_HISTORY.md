@@ -4636,3 +4636,14 @@
 - **Fare**: ₹1588
 - **Time**: 2025-12-18T11:06:07.666667+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766037198_7596
+- **Type**: Ola Cab
+- **From**: Deccan Gymkhana, Pune
+- **To**: Worli, Mumbai
+- **Distance**: 95.8 km
+- **Duration**: 151 min
+- **Fare**: ₹2386
+- **Time**: 2025-12-18T11:23:18.663362+05:30
+
