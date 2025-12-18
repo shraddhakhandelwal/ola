@@ -4757,3 +4757,14 @@
 - **Fare**: ₹1371
 - **Time**: 2025-12-18T16:01:29.720331+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766055136_8915
+- **Type**: Ola Auto
+- **From**: Yerawada, Pune
+- **To**: Bandra East, Mumbai
+- **Distance**: 151.8 km
+- **Duration**: 170 min
+- **Fare**: ₹1117
+- **Time**: 2025-12-18T16:22:16.234521+05:30
+
