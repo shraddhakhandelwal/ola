@@ -4647,3 +4647,14 @@
 - **Fare**: ₹2386
 - **Time**: 2025-12-18T11:23:18.663362+05:30
 
+
+## Ride #51
+- **ID**: RIDE_1766039687_4364
+- **Type**: Ola Bike
+- **From**: Hinjewadi, Pune
+- **To**: Dadar East, Mumbai
+- **Distance**: 165.8 km
+- **Duration**: 120 min
+- **Fare**: ₹1158
+- **Time**: 2025-12-18T12:04:47.681719+05:30
+
